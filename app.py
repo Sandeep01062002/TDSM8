@@ -1,5 +1,5 @@
 import streamlit as st
-st.write("TDS Module 8")
+st.write("TDS MODULE 8")
 a=st.number_input("Enter first number")
 b=st.number_input("Enter second number") 
 c=a-b
